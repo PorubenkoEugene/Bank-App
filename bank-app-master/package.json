@@ -30,7 +30,7 @@
         "@types/react-router-dom": "^4.3.2",
         "@types/react-window": "^1.7.1",
         "@types/victory": "^31.0.14",
-        "axios": "^0.18.0",
+        "axios": "^0.21.1",
         "babel-loader": "^8.0.4",
         "babel-plugin-module-resolver": "^3.1.1",
         "big.js": "^5.2.2",
